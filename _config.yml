@@ -34,28 +34,28 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
+github: cgokceli
+linkedin: gokceli
 facebook: cengizhan.gokceli
+email: cengizhan.gokceli@egebimtes.com.tr
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: gokceli
 # youtube: myyoutube
 spotify: 1277461634
-github: cgokceli
 lastfm: Jstromblad
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: cengizhan.gokceli@egebimtes.com.tr
 
 authors:
     cgokceli:
         name: Cengizhan Gökçeli
         bio: Software Developer
-        external-image: false
+        external-image: true
         picture: assets/images/profile.jpg
 #       twitter: johndoe
 
@@ -65,8 +65,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
