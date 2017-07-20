@@ -34,27 +34,27 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: gokceli
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: gokceli
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
-# lastfm: mylastfm
+spotify: 1277461634
+github: cgokceli
+lastfm: Jstromblad
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: cengizhan.gokceli@egebimtes.com.tr
 
 authors:
     cgokceli:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Cengizhan Gökçeli
+        bio: Software Developer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
@@ -72,7 +72,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+# about: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
