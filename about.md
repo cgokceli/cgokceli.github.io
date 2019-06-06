@@ -11,13 +11,8 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li></li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href=""></a></li>
-	<li><a href=""></a></li>
-	<li><a href=""></a></li>
+	<li>ASP.NET/ASP.NET Core</li>
+	<li>AngularJS/Angular</li>
+	<li>T-SQL</li>
+	<li>Continuous Integration</li>
 </ul>
